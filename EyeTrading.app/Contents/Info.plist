@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>EyeTrading</string>
 	<key>CFBundleVersion</key>
-    <string>0.5.1</string>
+    <string>0.5.2</string>
 	<key>CFBundleExecutable</key>
 	<string>EyeTrading</string>
 	<key>CFBundleIconFile</key>
@@ -19,7 +19,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.5.1</string>
+	<string>0.5.2</string>
 	<key>NSHumanReadableCopyright</key>
     <string>Copyright © 2024 EyeTrading. All Rights Reserved.</string>
 	<key>NSHighResolutionCapable</key>
