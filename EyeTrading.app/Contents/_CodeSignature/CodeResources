@@ -310,7 +310,7 @@
 		</data>
 		<key>Resources/base_library.zip</key>
 		<data>
-		1hOKWZ39R9taG7REkzN50JmHqcY=
+		5H2cHqhWbkLgiTUvnKb7/KitgCk=
 		</data>
 		<key>Resources/certifi/cacert.pem</key>
 		<data>
@@ -320,6 +320,18 @@
 		<data>
 		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 		</data>
+		<key>Resources/images/crosshair.svg</key>
+		<data>
+		XkoCyw6//CX+7HfkismbLNzIKws=
+		</data>
+		<key>Resources/images/dataset.svg</key>
+		<data>
+		T/ebCMYcj4gWGvHXWF8wh68h9oA=
+		</data>
+		<key>Resources/images/delete.svg</key>
+		<data>
+		21vhLLu5bLS8Ntw1cVnmAwrAoKU=
+		</data>
 		<key>Resources/images/file_open_black_24dp.svg</key>
 		<data>
 		K9uGnOQpnLUeqSyb8X0/8zsCAgQ=
@@ -328,9 +340,33 @@
 		<data>
 		cj+qTPrmFOaqgeQdvfxLCBTfrpk=
 		</data>
+		<key>Resources/images/home.svg</key>
+		<data>
+		SomGFls7eezvzeea8TDmK1Eoj9Y=
+		</data>
+		<key>Resources/images/insert_line3.svg</key>
+		<data>
+		VwxN8cUa2TNfUDZHvlhFM5QFS9o=
+		</data>
+		<key>Resources/images/insert_shape.svg</key>
+		<data>
+		0fNO+oqVUkRpv4smXZphYVXy7Q0=
+		</data>
+		<key>Resources/images/insert_text2.svg</key>
+		<data>
+		P1Nt+W9OfZt1sGaEZYQuh8PJBko=
+		</data>
 		<key>Resources/images/logo.ico</key>
 		<data>
 		dfw4BvczCUhXrNJWSTzWYLWY+fY=
+		</data>
+		<key>Resources/images/notifications.svg</key>
+		<data>
+		cYKc7z4n4a3akz39E0dg2vGl5oU=
+		</data>
+		<key>Resources/images/settings.svg</key>
+		<data>
+		x2nV9pwTMw6vWB3j3t5iWxDW9QE=
 		</data>
 		<key>Resources/importlib_metadata-7.0.1.dist-info/INSTALLER</key>
 		<data>
@@ -2153,7 +2189,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ollOtZyvzgdB/VDiG+BcDEPLKulHxBzbRXrwmhD5Rz8=
+			ngYzhy4g41AE5NUsm7ZO4a4Qavq2AWPYzY4075lYS80=
 			</data>
 		</dict>
 		<key>Resources/certifi/cacert.pem</key>
@@ -2170,6 +2206,27 @@
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
+		<key>Resources/images/crosshair.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			syYamr/UvUvsi6hkGlKjxOZwrFKXMlhRsnq7/Ze1KN4=
+			</data>
+		</dict>
+		<key>Resources/images/dataset.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AtJFVsDd/p82pLADiSvn26K0GU/Z0SzGWWrHwl6zt54=
+			</data>
+		</dict>
+		<key>Resources/images/delete.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7HXnVq9ON6kmovZO+PWerIUnamWPyKeu8MwSxehx6XE=
+			</data>
+		</dict>
 		<key>Resources/images/file_open_black_24dp.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -2184,11 +2241,53 @@
 			vMoLgjE72hN13eusbDwXSh3P9TbxpUHSRbjYx3N+itU=
 			</data>
 		</dict>
+		<key>Resources/images/home.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QXNfBW+kPtVwWFopQhD0wy2tFIG98KYXuGsQB7KoqRM=
+			</data>
+		</dict>
+		<key>Resources/images/insert_line3.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QIeEhEeYynQWmSNlOSRn7KKwTmZiO0pMr1zrwSNKN8k=
+			</data>
+		</dict>
+		<key>Resources/images/insert_shape.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZkOdCmPZSsaaUMg4XsU2joMXK4ygllscj8+95eFdS1o=
+			</data>
+		</dict>
+		<key>Resources/images/insert_text2.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IUmuxbrIZYSGhcHHwewTcpqffJnxLWvb6cdYDevM8pI=
+			</data>
+		</dict>
 		<key>Resources/images/logo.ico</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			LLuw6lbb8aHjjvPCRt63K82ghkVW4AxsTyqIuALMXws=
+			</data>
+		</dict>
+		<key>Resources/images/notifications.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9uE4DHb4WFHb6v3n+OsQbHmdciMs0Ea/MPq65PCgyCE=
+			</data>
+		</dict>
+		<key>Resources/images/settings.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			auu0qItApb8c43jKUy5KiFrtxAKgV0Vixu1N7QM2D9I=
 			</data>
 		</dict>
 		<key>Resources/importlib_metadata-7.0.1.dist-info/INSTALLER</key>
